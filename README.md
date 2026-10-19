@@ -8,3 +8,8 @@ I'm a student at the **University of Southern California**, studying Applied & C
 - 💻 Working primarily with Python, SQL, and machine learning tools
 
 ### Projects
+
+### Connect
+- [GitHub](https://github.com/JustinL55)
+- [Hugging Face](https://huggingface.co/JustinL55)
+- [Kaggle](https://www.kaggle.com/jhusliu)
